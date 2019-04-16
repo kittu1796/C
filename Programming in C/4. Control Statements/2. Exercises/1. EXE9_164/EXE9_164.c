@@ -1,12 +1,10 @@
 //***********************************************************************************************
-//Problem Statment: WAP that determines if a year is leap year.
+//Problem Statment: WAP using conditional operators to determine whether a year entered through 
+//					keyboard is a leap year or not.
 //Page : 164		
 //Aurthor : Ashwini kumar
 //Date : 16.04.19
-//Leap year : 1. years Divisible by 4, 2. Not the years devisible by 100, 3. years if divisible by 400
-//
 //*************************************************************************************************
-
 //MACRO DEFINITION
 #define YEAR_4 4U
 #define YEAR_100 100U
