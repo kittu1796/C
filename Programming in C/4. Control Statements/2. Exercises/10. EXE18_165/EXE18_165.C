@@ -1,8 +1,8 @@
 //***********************************************************************************************
-//Problem Statment: WAP to convert the binary equivalent of an number  without using array.
-//Page : 164		
+//Problem Statment: WAP to find sum of prime numbers in a range
+//Page : 165		
 //Aurthor : Ashwini kumar
-//Date : 16.04.19
+//Date : 29.04.19
 //*************************************************************************************************
 
 //Macro definition
@@ -14,7 +14,7 @@
 //Global Variable
 
 //Function prototype
-static unsigned int computeFactorial(unsigned int num);
+static unsigned int (unsigned int num);
 
 //Main
 int main(void)
